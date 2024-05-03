@@ -1,7 +1,9 @@
 <h1>FUNCIONA POR FAVOR</h1>
-(introdção muito top uau)
+<!--(introdção muito top uau)-->
 
 
-
-<h2>o que eu sei fazer</h2>
-<h2>This is heading 2</h2>
+<h3>Habilidades</h3>
+<dl>
+  <dt>🐍 Python</dt>
+  <dd>Concluí o curso de Python do Kaggle (nessa data)</dd>
+</dl>
