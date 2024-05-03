@@ -1,2 +1,2 @@
 # Curriculo
-<h1>Algo</h1>
+<p>Vamos criar um currículo aqui</p>
