@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <h1>FUNCIONA POR FAVOR</h1>
 (introdção muito top uau)
 
