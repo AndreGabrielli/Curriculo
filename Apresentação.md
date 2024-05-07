@@ -1,11 +1,14 @@
-<h1>CURRÍCULO DE GAMER 😼😼😼</h1>
-<h2>Informações pessoais necessárias</h2>
+<h2>CURRÍCULO DE GAMER 😼😼😼</h2>
+<h3>Informações pessoais necessárias</h3>
+<p>Nome: André Gabrielli dos Anjos</p>
+<p>Idade: 20 anos</p>
+<p>Endereço: (Eu não vou deixar o meu endereço público por causa desse trabalho. Finge que ele está aqui :D)</p>
 <p>Eu existo :D</p>
 
 <!--(introdção muito top uau)-->
 
 
-<h3>Habilidades</h3>
+<h3>Habilidades e Experiências</h3>
 <dl>
   <dt>🐍 Python</dt>
   <dd>Concluí o curso de Python do Kaggle (nessa data). Eu gosto bastante dessa linguagem, desde a programação básica, sem nenhum pacote externo, até a aplicada, como na análize de dados.</dd>
