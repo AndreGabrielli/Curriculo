@@ -1,2 +1,2 @@
-# Curriculo
-<p>Vamos criar um currículo aqui</p>
+# Olá 👋
+<p>Bem-vindo ao meu currículo</p>
