@@ -2,6 +2,7 @@
 <p>Nome: André Gabrielli dos Anjos</p>
 <p>Idade: 20 anos</p>
 <p>Endereço: (Eu não vou deixar o meu endereço público por causa desse trabalho. Finge que ele está aqui :D)</p>
+<p>Cursando: Engenharia da Computação na Unifatec</p>
 
 <h3>Habilidades e Experiências (mais recentes primeiro)</h3>
 <dl>
