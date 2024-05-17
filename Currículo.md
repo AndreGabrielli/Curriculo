@@ -18,7 +18,7 @@
   <dt>🐍 Python</dt>
   <dd>Concluí o curso de Python do Kaggle em 2023, que continua sendo a minha linguagem de progamação até hoje. <a href='https://colab.research.google.com/drive/1rfUXIHTKauneHSyHioWO4N7m4uo9w-hQ?usp=sharing'> Aqui está um exemplo do que eu consigo fazer</a></dd>
   <dt>🌐 HTML e CCS</dt>
-  <dd><p>Eu tentei fazer o curso de HTML e CCS do FreCodeCamp em 2022. Quando eu estava quase concluindo ele, percebi que não era com isso que eu gostaria de trabalhar. 
+  <dd><p>Eu tentei fazer o curso de HTML e CCS do FreeCodeCamp em 2022. Quando eu estava quase concluindo ele, percebi que não era com isso que eu gostaria de trabalhar. 
     Mesmo assim, eu cheguei a um ponto em que consigo criar um site básico e usar o console de desenvolvedor / modificar o link para identificar erros nos sites (na maior parte das vezes, erros que permitem que o usuáro acesse ou faça download de coisas que não devia).</p>
     <p>A qualidade do que eu fiz na época não vai muito além do mínimo que era aceito, mas <a href='https://www.freecodecamp.org/AndreGabrielli'> você pode ver o que eu fiz aqui</a>.</p>
   </dd>
