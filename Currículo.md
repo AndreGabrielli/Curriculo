@@ -1,10 +1,10 @@
 <h3>Informações pessoais</h3>
-<p>Nome: André Gabrielli dos Anjos</p>
-<p>Idade: 20 anos</p>
-<p>E-mail: andregabriellidosanjos@gmail.com</p>
-<p>Localização: (Eu não vou deixar isso público por enquanto. Finge que ele está aqui :D)</p>
-<p>Telefone: (Ainda não. Use a ✨imaginação✨)</p>
-<p>Cursando: Engenharia da Computação na Unifatec</p>
+<p>Nome: </p>
+<p>Idade: </p>
+<p>E-mail: </p>
+<p>Localização: </p>
+<p>Telefone: </p>
+<p>Cursando: Engenharia da Computação na </p>
 
 <h3>Habilidades e Experiências (mais recentes primeiro)</h3>
 <dl>
